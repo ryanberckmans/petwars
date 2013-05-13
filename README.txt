@@ -32,5 +32,4 @@ Change Log
  - playable petwars game
 
 1.0.0:
- - old version of petwars, unuseable
-
+ - Disregard that, 1.0.0 sucks cock, it's actually 3.0.1 now
