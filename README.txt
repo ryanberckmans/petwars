@@ -1,16 +1,8 @@
 
-Petwars Upcoming Features
-=========================
+Requirements
+============
 
-- toggleshow is ON by default, because the prompt is immersive
-- ? if Bob challenges fred, and Fred challenges Bob (instead of accepting), the challenge is automatically accepted.  This is just Quality of Life.
-- ? petwars shouldn't chatserve /emoteall and /roomall by players, since usually they are on the same chatserver elsewhere
-- ? option to mute battles if you're not in it, default OFF. Would require reworking /roomall
-- ? doesn't respond if you challenge someone who has already been challenged, but hasn't yet accepted.
-
-Class-specific issues
-=====================
-
+The petwars script is only compatible with the version of MudMaster included in this repostiory. (2.6.1 Keir's Beta 6.)
 
 Change Log
 ==========
@@ -32,4 +24,4 @@ Change Log
  - playable petwars game
 
 1.0.0:
- - Disregard that, 1.0.0 sucks cock, it's actually 3.0.1 now
+ - Disregard that, 1.0.0 sucks big, big cock, it's actually 3.0.1 now
