@@ -4,7 +4,6 @@
 -/clearlist {petwars2}
 /clearlist queue
 
-asd
 
 //PET CREATION GROUP
 /action {%0 chats to you, 'create pet} {checkinlist @LTrim($0)} {Petwars}
