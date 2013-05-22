@@ -7,6 +7,10 @@ The petwars script is only compatible with the version of MudMaster included in 
 Change Log
 ==========
 
+4.0.0:
+ - Version 3.x entirely replaced by rolling back to v2.0.1. v2.0.1 was infact the newer version and we'll use it from now on.
+ - In summary: v2.0.1 is the same as v4.0.0, v3.0.0 is the same as v1.0.0, and 3.x/1.x have been discarded.
+
 3.0.1:
  Bug Fixes:
  - Removed @Var(class[pet class]) call in combat script, class[pet class] variable does not exist.
