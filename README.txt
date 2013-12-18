@@ -1,3 +1,6 @@
+Petwars is a mini-game where each player has a pet that grows over time and fights other pets. Think of Tamagotchi + Pokemon duels.
+
+Petwars was originally an in-game activity for the players of Medievia.com in the late 90s and early 00s. When the original in-game activity closed, my friend Jonathan Nelson re-wrote the quest as a MudMaster script. This is a modified version of the Petwars MudMaster script which I have contributed to.
 
 Requirements
 ============
