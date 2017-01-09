@@ -31,4 +31,4 @@ Change Log
  - playable petwars game
 
 1.0.0:
- - Disregard that, 1.0.0 sucks big, big cock, it's actually 3.0.1 now
+ - Disregard that, 1.0.0 sucks, it's actually 3.0.1 now
